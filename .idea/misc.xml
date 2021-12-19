@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/drawable/background_dialog.xml" value="0.29444444444444445" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/drawable/bg_round.xml" value="0.2203125" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/drawable/button.xml" value="0.3101851851851852" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/drawable/custombutton.xml" value="0.3101851851851852" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/drawable/custombutton1.xml" value="0.3101851851851852" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/drawable/input.xml" value="0.2203125" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/drawable/slectedcolor.xml" value="0.1953125" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_location_picker.xml" value="0.25" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_location_picker2.xml" value="0.25" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_main2.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_ride_details.xml" value="0.25" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_schedulerides.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_selectdate.xml" value="0.22" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_selecttime.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_user_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_userscreen1.xml" value="0.17916666666666667" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/activity_vehcile_details.xml" value="0.25" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/background_dialog.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/datetime.xml" value="0.17916666666666667" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/dialogbox.xml" value="0.25" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/layout/fragment_profile.xml" value="0.17916666666666667" />
+        <entry key="..\:/Android Project/Android Project/Dshare/app/src/main/res/menu/drawermenu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

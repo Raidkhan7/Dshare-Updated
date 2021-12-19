@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="362dp"
+        android:layout_height="45sp"
+        android:layout_marginTop="33dp"
+        android:layout_marginLeft="19dp"
+        android:fontFamily="@font/medium"
+        android:text="Let's Go!"
+        android:textColor="@color/grey"
+        android:textSize="24dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="46dp" />
+
+    <Button
+        android:id="@+id/buttonH"
+        android:layout_width="199dp"
+        android:layout_height="50sp"
+        android:background="@drawable/custombutton1"
+        android:ems="10"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="15dp"
+        android:fontFamily="@font/medium"
+        android:text="Become a host"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.075"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="354dp"
+        android:layout_height="237dp"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="170dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonH"
+        app:layout_constraintVertical_bias="0.728"
+        app:srcCompat="@drawable/cab1" />
+
+
+</RelativeLayout>
